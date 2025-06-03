@@ -77,6 +77,7 @@ Managing different data types (int, unsigned, hex, pointer…)
 Converting numbers to strings manually (itoa, base conversion)
 
 Dealing with memory layout and edge cases like NULL strings or 0 values
+
 ---
 ## 👨‍💻 Author
 **Mehdi Adel Achouba**  
