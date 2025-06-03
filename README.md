@@ -29,6 +29,7 @@ It supports a subset of the original specifiers and handles formatted output to 
 ---
 
 ## 📂 Project Structure
+```
 ft_printf/
 ├── Makefile
 ├── README.md
@@ -41,7 +42,7 @@ ft_printf/
 ├── ft_putstr.c
 ├── ft_putunbr.c
 └── libft
-
+```
 ---
 
 ## 🔧 Build Instructions
@@ -63,6 +64,7 @@ Compile example:
 ```
 gcc -Wall -Wextra -Werror main.c ft_printf.a
 ```
+---
 ## 🧠 What I Learned
 Handling variadic functions using stdarg.h
 
@@ -75,7 +77,7 @@ Managing different data types (int, unsigned, hex, pointer…)
 Converting numbers to strings manually (itoa, base conversion)
 
 Dealing with memory layout and edge cases like NULL strings or 0 values
-
+---
 ## 👨‍💻 Author
 **Mehdi Adel Achouba**  
 **42 Paris – Login: machouba**
